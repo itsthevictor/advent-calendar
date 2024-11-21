@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "day": "2023-12-01",
+    "discount": "",
+    "code": "",
+    "applied": " ",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072102/advent%20calendar/ball13_jdrwws.png",
+    "url": "https://www.shop.senecanticafe.ro/stil-de-via/ilustratii/"
+  },
+  {
+    "id": 2,
+    "day": "2023-12-02",
+    "discount": "20",
+    "code": "SPLASH20",
+    "applied": "all kids swimwear",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072102/advent%20calendar/ball12_cijmup.png"
+  },
+  {
+    "id": 3,
+    "day": "2023-12-03",
+    "discount": "",
+    "code": "",
+    "applied": " ",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072100/advent%20calendar/ball11_bhhdjm.png",
+    "url": ""
+  },
+  {
+    "id": 4,
+    "day": "2023-12-04",
+    "discount": "50",
+    "code": "PRAGMATA",
+    "applied": "toate cărțile de Știință",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072100/advent%20calendar/ball10_unbpc2.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/stiinta/"
+  },
+  {
+    "id": 5,
+    "day": "2023-12-05",
+    "discount": "30",
+    "code": "PRAGMATA",
+    "applied": "toate cărțile de Știință",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball5_s0dt1v.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/stiinta/"
+  },
+  {
+    "id": 6,
+    "day": "2023-12-06",
+    "discount": "40",
+    "code": "IMPREUNA",
+    "applied": "toate cărțile de Psihologie",
+    "url": "https://www.shop.senecanticafe.ro/carti/psihologie/",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072102/advent%20calendar/ball12_cijmup.png"
+  },
+  {
+    "id": 7,
+    "day": "2023-12-07",
+    "discount": "50",
+    "code": "JUNTOS",
+    "applied": "toate ilustrațiile",
+    "url": "https://www.shop.senecanticafe.ro/stil-de-via/ilustratii/",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball8_tnnvxf.png"
+  },
+  {
+    "id": 8,
+    "day": "2023-12-08",
+    "discount": "30",
+    "code": "RAZEM",
+    "applied": "toate cărțile de Copii și adolescenți",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701370288/advent%20calendar/present_trtg2s.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/copii-si-adolescenti/"
+  },
+  {
+    "id": 9,
+    "day": "2023-12-09",
+    "discount": "50",
+    "code": "SAMAN",
+    "applied": "toate cărțile de Dezvoltare personală",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball4_bohoww.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/dezvoltare-personala/"
+  },
+  {
+    "id": 10,
+    "day": "2023-12-10",
+    "discount": "30",
+    "code": "ZUSAMMEN",
+    "applied": "toate cărțile de Beletristică",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball6_pxz6ij.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/beletristica/"
+  },
+  {
+    "id": 11,
+    "day": "2023-12-11",
+    "discount": "25",
+    "code": "ENSEMBLE",
+    "applied": "toate cărțile de Istorie",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072100/advent%20calendar/ball9_gjoqbh.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/istorie/"
+  },
+  {
+    "id": 12,
+    "day": "2023-12-12",
+    "discount": "30",
+    "code": "SAMEN",
+    "applied": "toate cărțile de Ecologie",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball2_edpsao.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/ecologie-si-protectia-mediului/"
+  },
+  {
+    "id": 13,
+    "day": "2023-12-13",
+    "discount": "30",
+    "code": "SPOLU",
+    "applied": "toate cărțile de Afaceri si comunicare",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072102/advent%20calendar/ball13_jdrwws.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/afaceri-si-comunicare/"
+  },
+  {
+    "id": 14,
+    "day": "2023-12-14",
+    "discount": "30",
+    "code": "ZAJEDNO",
+    "applied": "toate cărțile de Religie",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072102/advent%20calendar/ball12_cijmup.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/religie/"
+  },
+  {
+    "id": 15,
+    "day": "2023-12-15",
+    "discount": "25",
+    "code": "JUNTS",
+    "applied": "toate cărțile de Sport și fitness",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072100/advent%20calendar/ball11_bhhdjm.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/sport-si-fitness/"
+  },
+  {
+    "id": 16,
+    "day": "2023-12-16",
+    "discount": "30",
+    "code": "MAZI",
+    "applied": "toate cărțile de Filosofie și eseu",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072100/advent%20calendar/ball7_ams0es.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/filosofie-si-eseu/"
+  },
+  {
+    "id": 17,
+    "day": "2023-12-17",
+    "discount": "30",
+    "code": "COMHLA",
+    "applied": "toate cărțile de Biografii și jurnale",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701370495/advent%20calendar/flower_tpic8r.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/biografii-si-jurnale/"
+  },
+  {
+    "id": 18,
+    "day": "2023-12-18",
+    "discount": "30",
+    "code": "SKUPAJ",
+    "applied": "toate Tricourile",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701370405/advent%20calendar/boot_ygadap.png",
+    "url": "https://www.shop.senecanticafe.ro/stil-de-via/imbracaminte/tricouri/"
+  },
+  {
+    "id": 19,
+    "day": "2023-12-19",
+    "discount": "40",
+    "code": "FLIMKIEN",
+    "applied": "toate cărțile de Psihologie",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball8_tnnvxf.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/psihologie/"
+  },
+  {
+    "id": 20,
+    "day": "2023-12-20",
+    "discount": "30",
+    "code": "KARTU",
+    "applied": "toate cărțile de Artă și arhitectură",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball5_s0dt1v.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/arta-si-arhitectura/"
+  },
+  {
+    "id": 21,
+    "day": "2023-12-21",
+    "discount": "50",
+    "code": "KOPA",
+    "applied": "toate cărțile de Dezvoltare personală",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball4_bohoww.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/dezvoltare-personala/"
+  },
+  {
+    "id": 22,
+    "day": "2023-12-22",
+    "discount": "35",
+    "code": "XUNTOS",
+    "applied": "toate cărțile de Beletristică",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball6_pxz6ij.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/beletristica/"
+  },
+  {
+    "id": 23,
+    "day": "2023-12-23",
+    "discount": "35",
+    "code": "ZAEDNO",
+    "applied": "toate cărțile de Copii și adolescenți",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701072099/advent%20calendar/ball8_tnnvxf.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/copii-si-adolescenti/"
+  },
+  {
+    "id": 24,
+    "day": "2023-12-24",
+    "discount": "30",
+    "code": "KOOS",
+    "applied": "toate Hărțile turistice",
+    "img": "https://res.cloudinary.com/dgp67jheg/image/upload/v1701370200/advent%20calendar/CAT_felqij.png",
+    "url": "https://www.shop.senecanticafe.ro/carti/harti-turistice/"
+  }
+]
