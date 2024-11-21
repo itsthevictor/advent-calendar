@@ -146,7 +146,16 @@ function CalendarOne({ doors }) {
                   <div className="calendar">
                     {doors.map((door, i) => {
                       return (
-                        <div className="door-container" key={i}>
+                        <div
+                          className="door-container"
+                          key={i}
+                          style={{
+                            backgroundImage: `url(${door.img})`,
+                            backgroundRepeat: "no-repeat",
+                            backgroundSize: "cover",
+                            backgroundPosition: "center",
+                          }}
+                        >
                           <div
                             className={
                               isOpen.includes(door.day) ? "dooropen" : "door"
@@ -174,6 +183,9 @@ function CalendarOne({ doors }) {
                     })}
                   </div>
 
+                  {/* <div className="hover">
+                <p>{hover}</p>
+                </div> */}
                   <div className="btn-container">
                     <motion.button
                       // whileHover={{ scale: 1.05 }}

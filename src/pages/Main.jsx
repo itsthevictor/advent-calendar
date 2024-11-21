@@ -4,7 +4,7 @@ import axios from "axios";
 export const mainLoader = async () => {
   try {
     const { data } = await axios.get(
-      "https://gist.githubusercontent.com/itsthevictor/263699fd6c05921359669c249fdc0424/raw/8c56f9d5451aa034e28942c277042b426238d6cb/gistfile1.json"
+      "https://gist.githubusercontent.com/itsthevictor/263699fd6c05921359669c249fdc0424/raw/e6aefa02d1ee94a3e8af4fd12d4ce132fef7a583/gistfile1.json"
     );
     return data;
   } catch (error) {
